@@ -39,5 +39,5 @@ while (mass > 0) {
     console.log("The counter is " + counter);
     console.log("The weight is " + totallyWeight);
 
-    mass = Number(prompt("Enter a new mass (or enter 0 to exit):"));
+    mass = prompt("Enter a new mass (or enter 0 to exit):");
 }
